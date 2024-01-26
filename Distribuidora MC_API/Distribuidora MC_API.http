@@ -1,0 +1,6 @@
+@Distribuidora_MC_API_HostAddress = http://localhost:5119
+
+GET {{Distribuidora_MC_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
